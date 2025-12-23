@@ -3,4 +3,4 @@ A simple macro economic Policy Simulator built in python and based off of the 3 
 
 The model focuses on the forward looking nature of central bnk policy making but does not incorperate into the IS Curve or Philps Curve the forward looking natures of firms and indaviduals 
 
-The three equations are 
+The three equations take into acount that there is a lag associated with monetary polcy's impact on the economy. The equations assume that interest rates will take 
